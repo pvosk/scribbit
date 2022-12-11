@@ -46,7 +46,6 @@ fonttools==4.38.0
 fsspec==2022.10.0
 future @ file:///home/conda/feedstock_root/build_artifacts/future_1666786049710/work
 gitdb @ file:///home/conda/feedstock_root/build_artifacts/gitdb_1669279893622/work
-GitPython @ file:///home/conda/feedstock_root/build_artifacts/gitpython_1665480281556/work
 gruut==2.2.3
 gruut-ipa==0.13.0
 gruut-lang-cs==2.0.0

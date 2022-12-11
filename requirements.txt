@@ -1,0 +1,6 @@
+torchaudio~=0.12.1
+streamlit~=1.15.2
+speechbrain~=0.5.13
+whisper~=1.0
+pytube~=12.1.0
+pydub~=0.25.1

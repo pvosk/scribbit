@@ -1,4 +1,3 @@
-altair @ file:///home/conda/feedstock_root/build_artifacts/altair_1640799865332/work
 anyascii==0.3.1
 anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1666191106763/work/dist
 appdirs==1.4.4

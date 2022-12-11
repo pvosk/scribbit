@@ -21,6 +21,7 @@ HyperPyYAML==1.1.0
 kiwisolver==1.4.4
 librosa==0.8.0
 num2words==0.5.12
+pydub==0.25.1
 pytube==12.1.0
 pyworld==0.2.10
 regex==2022.3.2

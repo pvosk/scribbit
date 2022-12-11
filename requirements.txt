@@ -23,7 +23,6 @@ librosa==0.8.0
 num2words==0.5.12
 pytube==12.1.0
 pyworld==0.2.10
-PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1666772684107/work
 regex==2022.3.2
 resampy==0.4.2
 rich==12.6.0
